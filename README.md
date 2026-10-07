@@ -70,7 +70,7 @@ flowchart LR
     I --> J
 
     G --> K
-
+```
 
 # 🔄 Risk Management NLP Pipeline
 
